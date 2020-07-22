@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
-date: 2016-02-20 21:15:00
-categories: development design
-tags: Jekyll Sass Bootstrap
+title: 'Battle Crow Radio'
+date: 2020-07-11 21:15:00
+categories: Foley
+tags: Ableton Foley iZotopeVinyl
 featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
-button_icon: 'flask'
-button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+project_link: 'https://youtu.be/IJ5HH2KlQIA'
+button_icon: 'youtube'
+button_text: 'Listen'
+lead_text: "In collaboration with Annex Theatre, "Battle Crow Radio" was produced using voice-over, Foley, and vintage-like mixing to create a 1940 murder mystery."
 ---
